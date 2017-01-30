@@ -1,2 +1,3 @@
 # Hello-World
 It begins....
+I am newer to software engineering and am working hard to come up to speed.  I am excited to have new hobby projects to work on and this is the begining.
